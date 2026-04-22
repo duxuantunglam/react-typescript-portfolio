@@ -4,7 +4,6 @@ function Layout() {
 
   return (
     <div>
-      <div>Hello World</div>
       <TodoList />
     </div>
   )
